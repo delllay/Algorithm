@@ -1,36 +1,9 @@
 package solving;
 
-/*
-¹®Á¦ ¸µÅ© : https://programmers.co.kr/learn/courses/30/lessons/12899
+// https://programmers.co.kr/learn/courses/30/lessons/12899
+// https://velog.io/@delay/JAVA-ë”-ë§µê²Œ-124-ë‚˜ë¼ì˜-ìˆ«ìž
 
-[¹®Á¦ ¼³¸í]
-124 ³ª¶ó¿¡¼­´Â 1,2,4 ¸¸À» ÀÌ¿ëÇÏ¿© ÀÚ½Åµé¸¸ÀÇ ±ÔÄ¢À¸·Î ¼ýÀÚ¸¦ ³ªÅ¸³½´Ù. 
-1-1 | 2-2 | 3-4 | 4-11 | 5-12 | 6-14 
-°°ÀÌ ³ªÅ¸³½´Ù.
-
-[ÀÔ·Â]
-¼ýÀÚ n
-
-[Ãâ·Â]
-124 ³ª¶ó¿¡¼­ Ç¥ÇöÇÏ´Â ¼ýÀÚ
-
-[ÇØ¼³]
-¼ýÀÚ¸¦ 3ÀÇ Áø¼ö·Î ³ªÅ¸³»´Â °Í°ú ±âº»ÀûÀ¸·Î ºñ½ÁÇÏ´Ù.
-
-3ÀÇ Áø¼ö :	1-1	| 2-2	| 3-10	| 4-11	| 5-12	| 6-20
-124 ³ª¶ó :	1-1	| 2-2	| 3-4	| 4-11	| 5-12	| 6-14
-
-´Ü, 124 ³ª¶ó¿¡´Â 0ÀÌ ¾ø´Ù´Â °ÍÀ» ÁÖÀÇÇØ¾ßÇÑ´Ù.
-3À¸·Î ³ª´©¾î ¶³¾îÁö´Â °æ¿ì¿¡´Â 0 ´ë½Å 4¸¦ ³ªÅ¸³»°í
-nÀº 1À» »©¼­ °è»êÇÑ´Ù.
-
-[Âü°í]
-Ã¹¹øÂ° Ç®¾úÀ» ¶§ Á¤´äÀº ¸ÂÀ¸³ª È¿À²¼ºÀÌ °è¼Ó Æ²¸®°Ô ³ª¿Ô¾ú´Ù.
-ÀÌÀ¯´Â ¾Æ¸¶ ³ª¸ÓÁö¸¦ ±¸ÇÏ°í if ¹®À¸·Î È®ÀÎÇØ¼­ ±×·± °Å °°´Ù.
-Ã£¾Æº¸´Ï if¹®À¸·Î È®ÀÎÇÏ´Â ´ë½Å ¹Ì¸® 4, 1, 2 ¼øÀ¸·Î ¹è¿­À» ¸¸µé°í 3À» ³ª´« ³ª¸ÓÁö·Î °ªÀ» ±¸ÇÏ´Â ¹æ¹ýÀÌ ÀÖ¾î ±×·¸°Ô ±¸ÇöÇÏ¿´´Ù. 
-*/
-
-public class learn12899_124_³ª¶óÀÇ_¼ýÀÚ {
+public class learn12899_124_ë‚˜ë¼ì˜_ìˆ«ìž {
 	public static void main(String[] args) {
 
 		int n = 18;

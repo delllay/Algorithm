@@ -1,5 +1,5 @@
 // https://programmers.co.kr/learn/courses/30/lessons/12899
-// https://velog.io/@delay/JAVA-더-맵게-124-나라의-숫자
+// https://velog.io/@delay/programmers12899
 
 public class learn12899_124_나라의_숫자 {
 	public static void main(String[] args) {

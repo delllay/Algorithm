@@ -1,5 +1,3 @@
-package solving;
-
 // https://programmers.co.kr/learn/courses/30/lessons/12899
 // https://velog.io/@delay/JAVA-더-맵게-124-나라의-숫자
 

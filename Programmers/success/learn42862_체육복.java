@@ -1,7 +1,7 @@
 package success;
 
-//https://programmers.co.kr/learn/courses/30/lessons/42862
-//https://velog.io/@delay/JAVA-체육복-프로그래머스
+// https://programmers.co.kr/learn/courses/30/lessons/42862
+// https://velog.io/@delay/programmers42862
 
 public class learn42862_체육복 {
 	public static void main(String[] args) {

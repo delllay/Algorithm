@@ -7,11 +7,11 @@ public class learn42626_더_맵게 {
 	}
 
 	public static long solution(int w, int h) {
-    long answer = 0;
+   	 	long answer = 0;
 
-    for (long i = 1; i < w; i++)
-      answer += i * h / w;
+		for (long i = 1; i < w; i++)
+		answer += i * h / w;
 
-    return answer * 2;
-  }
+		return answer * 2;
+	}
 }

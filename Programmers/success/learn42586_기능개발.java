@@ -1,5 +1,5 @@
-// https://programmers.co.kr/learn/courses/30/lessons/42586
-// https://velog.io/@delay/programmers42586
+// https://programmers.co.kr/learn/courses/30/lessons/42862
+// https://velog.io/@delay/programmers42862
 
 public class learn42586_기능개발 {
 	public static void main(String[] args) {

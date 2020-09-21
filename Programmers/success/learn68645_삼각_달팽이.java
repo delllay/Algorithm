@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
-// https://programmers.co.kr/learn/courses/30/lessons/68645?language=java
+// https://programmers.co.kr/learn/courses/30/lessons/68645
+// https://velog.io/@delay/programmers68645
 
 public class learn68645_삼각_달팽이 {
 	public static void main(String[] args) {

@@ -1,9 +1,7 @@
-package programmers;
-
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class learn42583_´Ù¸®¸¦_Áö³ª´Â_Æ®·° {
+public class learn42583_ë‹¤ë¦¬ë¥¼_ì§€ë‚˜ëŠ”_íŠ¸ëŸ­ {
 
 	public static void main(String[] args) {
 		int bridge_length = 100;

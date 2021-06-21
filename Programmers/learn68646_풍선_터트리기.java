@@ -1,7 +1,7 @@
-// https://programmers.co.kr/learn/courses/30/lessons/68646
+﻿// https://programmers.co.kr/learn/courses/30/lessons/68646
 // https://velog.io/@delay/programmers68646
 
-public class learn68646_풍선_터트리기 {
+public class learn68646_??_?고몃━湲?{
 	public static void main(String[] args) {
 		int[] a = { -16, 27, 65, -2, 58, -92, -71, -68, -61, -33 };
 

@@ -1,10 +1,10 @@
-import java.util.Arrays;
+﻿import java.util.Arrays;
 import java.util.Scanner;
 
 // https://velog.io/@delay/acmicpc2798
 // https://www.acmicpc.net/problem/2798
 
-public class p2798_블랙잭 {
+public class p2798_釉?? {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

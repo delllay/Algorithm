@@ -1,7 +1,7 @@
-// https://programmers.co.kr/learn/courses/30/lessons/62048
+﻿// https://programmers.co.kr/learn/courses/30/lessons/62048
 // https://velog.io/@delay/programmers62048
 
-public class learn42626_더_맵게 {
+public class learn42626_?_留듦? {
 	public static void main(String[] args) {
 		System.out.println(solution(8, 12));
 	}

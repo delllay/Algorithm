@@ -1,11 +1,11 @@
-import java.util.ArrayList;
+﻿import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 // https://programmers.co.kr/learn/courses/30/lessons/68644
 // https://velog.io/@delay/programmers68644
 
-public class learn68644_두_개_뽑아서_더하기 {
+public class learn68644_?_媛_戮??_??湲?{
 	public static void main(String[] args) {
 		int[] numbers = {5,0,2,7};
 

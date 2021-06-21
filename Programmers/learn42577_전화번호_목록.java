@@ -1,7 +1,7 @@
-// https://programmers.co.kr/learn/courses/30/lessons/42577
+﻿// https://programmers.co.kr/learn/courses/30/lessons/42577
 // https://velog.io/@delay/programmers42577
 
-public class learn42577_전화번호_목록 {
+public class learn42577_??踰??紐⑸? {
 	public static void main(String[] args) {
 
 		String[] phone_book = {"119", "97674223", "1195524421"};

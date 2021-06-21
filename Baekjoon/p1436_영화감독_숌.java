@@ -1,11 +1,11 @@
-import java.io.BufferedReader;
+﻿import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 // https://www.acmicpc.net/problem/1436
 // https://velog.io/@delay/acmicpc1436
 
-public class p1436_영화감독_숌 {
+public class p1436_??媛?_? {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

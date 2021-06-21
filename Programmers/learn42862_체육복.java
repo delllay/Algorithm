@@ -1,9 +1,9 @@
-package success;
+﻿package success;
 
 // https://programmers.co.kr/learn/courses/30/lessons/42862
 // https://velog.io/@delay/programmers42862
 
-public class learn42862_체육복 {
+public class learn42862_泥댁〓났 {
 	public static void main(String[] args) {
 		
 		int n = 9;

@@ -1,8 +1,8 @@
-package Success;
+﻿package Success;
 
 import java.util.Scanner;
 
-public class Main2981_�˹� {
+public class Main2981_검문 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

@@ -1,7 +1,7 @@
-// https://programmers.co.kr/learn/courses/30/lessons/12949
+﻿// https://programmers.co.kr/learn/courses/30/lessons/12949
 // https://velog.io/@delay/programmers12949
 
-public class learn12949_행렬의_곱셈 {
+public class learn12949_??ъ_怨깆 {
 	public static void main(String[] args) {
 		int arr1 = { {	2, 3, 2 }, { 4, 2, 4 }, { 3, 1, 4 } };
 		int arr2 = { { 22, 22, 11 }, { 36, 28, 18 }, { 29, 20, 14 } };

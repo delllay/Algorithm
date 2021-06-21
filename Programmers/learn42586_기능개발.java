@@ -1,7 +1,7 @@
-// https://programmers.co.kr/learn/courses/30/lessons/42586
+﻿// https://programmers.co.kr/learn/courses/30/lessons/42586
 // https://velog.io/@delay/programmers42586
 
-public class learn42586_기능개발 {
+public class learn42586_湲곕κ?諛 {
 	public static void main(String[] args) {
 		
 		int[] progresses = {93, 30, 55};

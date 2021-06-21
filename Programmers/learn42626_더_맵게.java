@@ -1,9 +1,9 @@
-import java.util.PriorityQueue;
+﻿import java.util.PriorityQueue;
 
 //https://programmers.co.kr/learn/courses/30/lessons/42626
 // https://velog.io/@delay/programmers42626
 
-public class learn42626_더_맵게 {
+public class learn42626_?_留듦? {
 	public static void main(String[] args) {
 		
 		int[] scoville = {1, 2, 3};

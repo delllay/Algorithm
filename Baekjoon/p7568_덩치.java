@@ -1,11 +1,11 @@
-import java.io.BufferedReader;
+﻿import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 // https://velog.io/@delay/acmicpc7568
 // https://www.acmicpc.net/problem/7568
 
-public class p7568_덩치 {
+public class p7568_?⑹? {
 public static void main(String[] args) throws NumberFormatException, IOException {
 	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

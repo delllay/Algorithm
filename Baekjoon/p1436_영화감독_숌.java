@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 // https://www.acmicpc.net/problem/1436
 // https://velog.io/@delay/acmicpc1436
 
-public class p1436_??媛?_? {
+public class p1436_영화감독_숌 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -22,7 +22,7 @@ public class p1436_??媛?_? {
 		System.out.println(n);
 	}
 
-	public static boolean check(int n) {
+	private static boolean check(int n) {
 		int cnt = 0;
 
 		while (n > 0 && cnt < 3) {

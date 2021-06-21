@@ -1,7 +1,7 @@
 ﻿// https://programmers.co.kr/learn/courses/30/lessons/12899
 // https://velog.io/@delay/programmers12899
 
-public class learn12899_124_??쇱_?レ {
+public class learn12899_124_나라의_숫자 {
 	public static void main(String[] args) {
 
 		int n = 18;
@@ -30,7 +30,7 @@ public class learn12899_124_??쇱_?レ {
 	}
 
 	public static String solution2(int n) {
-		String[] num = {"4", "1", "2"};
+		String[] num = { "4", "1", "2" };
 		String answer = "";
 
 		while (n > 0) {

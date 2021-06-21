@@ -3,7 +3,7 @@ import java.util.Comparator;
 
 // https://programmers.co.kr/learn/courses/30/lessons/17686
 
-public class learn17686_??쇰?_???{
+public class learn17686_파일명_정렬 {
 
 	public static void main(String[] args) {
 		String[] files = { "foo0101456bar020.zip", "foo010bar110.zip" };
@@ -16,7 +16,6 @@ public class learn17686_??쇰?_???{
 
 	public static String[] solution(String[] files) {
 		Arrays.sort(files, new Comparator<String>() {
-			@Override
 			public int compare(String s1, String s2) {
 				String[] file1 = split(s1);
 				String[] file2 = split(s2);

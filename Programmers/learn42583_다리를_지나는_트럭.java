@@ -1,7 +1,7 @@
 ﻿import java.util.LinkedList;
 import java.util.Queue;
 
-public class learn42583_?ㅻ━瑜?吏??_?몃 {
+public class learn42583_다리를_지나는_트럭 {
 
 	public static void main(String[] args) {
 		int bridge_length = 100;

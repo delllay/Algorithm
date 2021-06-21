@@ -1,9 +1,7 @@
-﻿package Success;
-
-import java.util.Scanner;
+﻿import java.util.Scanner;
 import java.util.Stack;
 
-public class Main2503_숫자야구 {
+public class p2503_숫자야구 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

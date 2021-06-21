@@ -1,14 +1,12 @@
-﻿package success;
-
-// https://programmers.co.kr/learn/courses/30/lessons/42862
+﻿// https://programmers.co.kr/learn/courses/30/lessons/42862
 // https://velog.io/@delay/programmers42862
 
-public class learn42862_泥댁〓났 {
+public class learn42862_체육복 {
 	public static void main(String[] args) {
-		
+
 		int n = 9;
-		int[] lost = {2, 4, 7, 8};
-		int[] reserve = {3, 6, 9};
+		int[] lost = { 2, 4, 7, 8 };
+		int[] reserve = { 3, 6, 9 };
 
 		System.out.println(solution(n, lost, reserve));
 	}

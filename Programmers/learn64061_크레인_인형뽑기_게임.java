@@ -1,11 +1,6 @@
-﻿package programmers;
-
-
-import java.util.ArrayList;
+﻿import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
-
-
 
 /*풀이
 1. 보드를 세로 한 줄 씩 스택에 담고 스택들을 list 에 담는다.

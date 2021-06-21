@@ -1,6 +1,4 @@
-﻿package programmers;
-
-import java.util.Arrays;
+﻿import java.util.Arrays;
 import java.util.Comparator;
 
 public class learn42746_가장_큰_수 {
@@ -18,7 +16,6 @@ public class learn42746_가장_큰_수 {
 		}
 
 		Arrays.sort(arr, new Comparator<String>() {
-			@Override
 			public int compare(String s1, String s2) {
 				return (s2 + s1).compareTo(s1 + s2);
 			}
@@ -31,7 +28,5 @@ public class learn42746_가장_큰_수 {
 		}
 		return !(Integer.parseInt(answer) > 0) ? "0" : answer;
 	}
-	
-	
-	
+
 }

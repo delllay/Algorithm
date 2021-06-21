@@ -1,6 +1,4 @@
-﻿package programmers;
-
-import java.util.*;
+﻿import java.util.*;
 
 public class learn42587_프린터 {
 	public static void main(String[] args) {
@@ -81,7 +79,6 @@ class File implements Comparable<File> {
 		this.priority = priority;
 	}
 
-	@Override
 	public int compareTo(File target) {
 		if (this.priority < target.priority)
 			return -1;

@@ -1,5 +1,3 @@
-package codewars;
-
 //https://www.codewars.com/kata/52fba66badcd10859f00097e
 public class kata7_troll {
 	public static void main(String[] args) {

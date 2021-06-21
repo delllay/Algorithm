@@ -5,9 +5,9 @@ import java.util.List;
 // https://programmers.co.kr/learn/courses/30/lessons/68644
 // https://velog.io/@delay/programmers68644
 
-public class learn68644_?_媛_戮??_??湲?{
+public class learn68644_두_개_뽑아서_더하기 {
 	public static void main(String[] args) {
-		int[] numbers = {5,0,2,7};
+		int[] numbers = { 5, 0, 2, 7 };
 
 		System.out.println(Arrays.toString(solution(numbers)));
 	}
@@ -31,7 +31,7 @@ public class learn68644_?_媛_戮??_??湲?{
 		}
 
 		Arrays.sort(answer);
-		
+
 		return answer;
 	}
 }

@@ -3,7 +3,7 @@
 // https://programmers.co.kr/learn/courses/30/lessons/68645
 // https://velog.io/@delay/programmers68645
 
-public class learn68645_?쇨?_?ы쎌?{
+public class learn68645_삼각_달팽이 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(6)));
 		System.out.println("[1, 2, 15, 3, 16, 14, 4, 17, 21, 13, 5, 18, 19, 20, 12, 6, 7, 8, 9, 10, 11]");

@@ -1,5 +1,3 @@
-package codewars;
-
 import java.util.Arrays;
 import java.util.Comparator;
 
@@ -18,7 +16,7 @@ public class kata6_order {
 		String[] wordArr = words.split(" ");
 
 		Arrays.sort(wordArr, new Comparator<String>() {
-			@Override
+
 			public int compare(String o1, String o2) {
 				return Integer.parseInt(o1.replaceAll("[a-zA-Z]", ""))
 						- Integer.parseInt(o2.replaceAll("[a-zA-Z]", ""));

@@ -1,5 +1,3 @@
-package codewars;
-
 //https://www.codewars.com/kata/563e320cee5dddcf77000158
 public class kata8_school {
 

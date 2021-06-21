@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 // https://velog.io/@delay/acmicpc2231
 // https://www.acmicpc.net/problem/2231
 
-public class p2231_遺?댄?{
+public class p2231_분해합 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

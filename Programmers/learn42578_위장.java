@@ -1,11 +1,10 @@
-﻿// https://programmers.co.kr/learn/courses/30/lessons/42578
+﻿
+// https://programmers.co.kr/learn/courses/30/lessons/42578
 // https://velog.io/@delay/programmers42578
-
-package programmers;
 
 import java.util.HashMap;
 
-public class learn42578_???{
+public class learn42578_위장 {
 	public static void main(String[] args) {
 		String[][] clothes = { { "yellow_hat", "headgear" }, { "blue_sunglasses", "eyewear" },
 				{ "green_turban", "headgear" } };

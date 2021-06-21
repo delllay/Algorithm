@@ -1,6 +1,4 @@
-﻿package programmers;
-
-public class learn68935_3진법_뒤집기 {
+﻿public class learn68935_3진법_뒤집기 {
 	public static void main(String[] args) {
 		System.out.println("[" + solution(45) + "]");
 		System.out.println("[" + solution(125) + "]");

@@ -1,5 +1,5 @@
 //https://www.codewars.com/kata/514b92a657cdc65150000006
-public class kata6_solution {
+public class kata6_Solution {
 	public static void main(String[] args) {
 		System.out.println(solution(10));
 	}

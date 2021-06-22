@@ -1,4 +1,4 @@
-public class kata7_vowels {
+public class kata7_getCount {
 	public static void main(String[] args) {
 		System.out.println(getCount("abracadabra"));
 	}

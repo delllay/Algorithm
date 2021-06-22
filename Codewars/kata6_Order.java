@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 //https://www.codewars.com/kata/55c45be3b2079eccff00010f
-public class kata6_order {
+public class kata6_Order {
 	public static void main(String[] args) {
 		System.out
 				.println(order("is2 Thi1s T4est 3a") + "|" + order("is2 Thi1s T4est 3a").equals("Thi1s is2 3a T4est"));

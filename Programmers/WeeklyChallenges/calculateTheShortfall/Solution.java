@@ -1,4 +1,4 @@
-package WeeklyChallenges.calculateTheShortfall;
+package weeklyChallenges.calculateTheShortfall;
 
 //https://programmers.co.kr/learn/courses/30/lessons/82612
 class Solution {

@@ -1,4 +1,4 @@
-package WeeklyChallenges.mutualEvaluation;
+package weeklyChallenges.mutualEvaluation;
 
 //https://programmers.co.kr/learn/courses/30/lessons/83201
 class Solution {
